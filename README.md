@@ -334,6 +334,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
+-   **[CampusX YouTube Playlist](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)** - 100 Days of Machine Learning course that inspired this repository
 -   Scikit-learn community for excellent documentation
 -   Pandas team for powerful data manipulation tools
 -   Matplotlib and Seaborn for visualization capabilities
