@@ -1,2 +1,79 @@
-.venv/
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
 
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Model files (large)
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.joblib
+*.model
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Data files (uncomment if you want to exclude large datasets)
+# *.csv
+# *.tsv
+# *.json
+
+# Output files
+output/
+results/
+plots/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+*.html
+
+# Keep these for learning purposes, but you can uncomment to exclude:
+# *.csv
+# *.tsv
